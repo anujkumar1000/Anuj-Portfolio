@@ -54,25 +54,25 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hi, I'm Anuj Kumar, a full-stack web developer with a strong
-                passion for building modern, dynamic, and efficient web
+                Hi, I&apos;m Anuj Kumar, a full-stack web developer with a
+                strong passion for building modern, dynamic, and efficient web
                 applications. With a focus on both front-end and back-end
-                development, I’m committed to creating seamless, responsive, and
-                user-friendly digital solutions.
+                development, I&apos;m committed to creating seamless,
+                responsive, and user-friendly digital solutions.
               </p>
 
               <p className="my-4 font-medium">
                 I specialize in using the latest technologies to build scalable
                 websites and applications that not only meet the needs of users
-                but also perform efficiently. I’m always learning new skills and
-                staying updated with industry trends to make sure I can offer
-                the best possible solutions.
+                but also perform efficiently. I&apos;m always learning new
+                skills and staying updated with industry trends to make sure I
+                can offer the best possible solutions.
               </p>
               <p className="font-medium">
-                Whether it's designing an intuitive interface, developing
+                Whether it&apos;s designing an intuitive interface, developing
                 server-side logic, or ensuring a smooth user experience across
                 devices, I approach every project with a focus on quality and
-                performance. I'm excited to take on new challenges and
+                performance. I&apos;m excited to take on new challenges and
                 collaborate on bringing your web ideas to life.
               </p>
             </div>
