@@ -56,6 +56,14 @@ const Experience = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             position="Software Engineer"
+            company="Thoughts2binary"
+            companyLink="https://www.thoughts2binary.com/"
+            time="02/2025 - Present"
+            address="Gurgaon, India"
+            work="Working as a Fullstack Developer on the Granite project with a strong focus on JavaScript and React. Played a key role in developing and maintaining dynamic user interfaces, ensuring high performance and responsiveness across platforms. Collaborated closely with backend teams to integrate APIs and enhance application scalability. Actively contributed to code optimization, bug fixing, and feature implementation to deliver a seamless user experience aligned with client requirements."
+          />
+          <Details
+            position="Software Engineer"
             company="LeadSquared"
             companyLink="https://www.leadSquared.com/"
             time="03/2024 - 09/2024"
