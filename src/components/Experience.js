@@ -58,9 +58,18 @@ const Experience = () => {
             position="Software Engineer"
             company="Thoughts2binary"
             companyLink="https://www.thoughts2binary.com/"
-            time="02/2025 - Present"
+            time="02/2025 - 07/2025"
             address="Gurgaon, India"
             work="Working as a Fullstack Developer on the Granite project with a strong focus on JavaScript and React. Played a key role in developing and maintaining dynamic user interfaces, ensuring high performance and responsiveness across platforms. Collaborated closely with backend teams to integrate APIs and enhance application scalability. Actively contributed to code optimization, bug fixing, and feature implementation to deliver a seamless user experience aligned with client requirements."
+          />
+          <Details
+            position="Software Engineer"
+            company="Freelancing"
+            companyLink="https://www.upwork.com/"
+            time="10/2024 - 01/2025"
+            address="Chandigarh, India"
+            work="Led the end-to-end development of a womens safety product, including planning, feature design, and implementation
+to address critical emergency concerns. Contributed to the successful launch of the product, ensuring a user-friendly and secure platform for women and their families."
           />
           <Details
             position="Software Engineer"
