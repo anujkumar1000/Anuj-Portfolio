@@ -44,7 +44,7 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/ANUJKUMAR_FULLSTACK_RESUME.pdf"
+                  href="/ANUJK_FULLSTACK_1YEAR.pdf"
                   target={"_blank"}
                   className="flex items-center bg-dark
                 text-light p-2.5 px-6
